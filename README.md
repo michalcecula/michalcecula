@@ -3,7 +3,7 @@
 
 ### Something about me:
 
-- 💻 I'm currently looking for experience in Quality Assurance
+- 💻 I'm currently looking for experience in Quality Assurance | Software Testing
 - ✅ I got the ISTQB®️ Certified Tester Foundation Level
 - 👨‍🎓 I'm a graduate of Rzeszów University of Technology with Masters's Degree
 - 🌱 Currently learning `PYTHON`
